@@ -1,0 +1,32 @@
+At line 26 of file water_opt_nms.f90 (unit = 5, file = 'stdin')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+#0  0x7fa7c3e5632a
+#1  0x7fa7c3e56ed5
+#2  0x7fa7c3e5769d
+#3  0x7fa7c3fcdca3
+#4  0x7fa7c3fc6c44
+#5  0x7fa7c3fc8379
+#6  0x564395f50d8b
+#7  0x564395f51da7
+#8  0x7fa7c3a6bb96
+#9  0x564395f50b89
+#10  0xffffffffffffffff
+ ni, temp
+At line 26 of file water_opt_nms.f90 (unit = 5, file = 'stdin')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+#0  0x7f00a3d9132a
+#1  0x7f00a3d91ed5
+#2  0x7f00a3d9269d
+#3  0x7f00a3f08ca3
+#4  0x7f00a3f01c44
+#5  0x7f00a3f03379
+#6  0x556b7c112d8b
+#7  0x556b7c113da7
+#8  0x7f00a39a6b96
+#9  0x556b7c112b89
+#10  0xffffffffffffffff
+ ni, temp
